@@ -1,0 +1,20 @@
+{
+  "name": "copy-text-extension-firefox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "web-ext build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Future23365/copy-text-extesion-firefox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Future23365/copy-text-extesion-firefox/issues"
+  },
+  "homepage": "https://github.com/Future23365/copy-text-extesion-firefox#readme"
+}
